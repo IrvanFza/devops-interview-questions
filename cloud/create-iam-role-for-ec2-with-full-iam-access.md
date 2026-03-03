@@ -17,3 +17,6 @@ Create an IAM role named `IAMFullAccessEC2` that:
 <br>
 
 _Note: You can use either the AWS Management Console or AWS CLI to complete this task._
+
+---
+📹 [Video Solution](https://prepare.sh/interview/devops/aws/create-iam-role-for-ec2-with-full-iam-access)

@@ -23,3 +23,6 @@ Design and implement a VPC network architecture `10.0.0.0/16` that meets the fol
 <br>
 
 _Note: You can use either the AWS Management Console or AWS CLI to complete this task._
+
+---
+📹 [Video Solution](https://prepare.sh/interview/devops/aws/design-egress-only-vpc-with-nat)
